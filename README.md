@@ -27,7 +27,7 @@
 	* [es_extended](https://github.com/ESX-Org/es_extended)
 	* [skinchanger](https://github.com/ESX-Org/skinchanger)
 	* [esx_skin](https://github.com/ESX-Org/esx_skin)
-	* [esx_addonaccout](https://github.com/ESX-Org/esx_addonaccount)
+	* [esx_addonaccount](https://github.com/ESX-Org/esx_addonaccount)
 	* [esx_jobs](https://github.com/ESX-Org/esx_jobs)
 	* [esx_joblisting](https://github.com/ESX-Org/esx_joblisting)
 
