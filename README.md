@@ -3,19 +3,19 @@
 
 ### JobList
 	
-	*Ambulance - Ambulance
-	*Bahama - Bahama
-	*Banque - Banker
-	*Avocat - Lawyer
-	*Mécano - mechanic
-	*Police - LSPD
-	*Eboueur - Garbage
-	*Président - President
-	*Agent immobilier - Real estate agent
-	*Taxi - Taxi
-	*Unicorn - Unicorn
-	*Concessionnaire * CarDealer
-	*Vigneron - Vigneron
+	**Ambulance - Ambulance**
+	**Bahama - Bahama**
+	**Banque - Banker**
+	**Avocat - Lawyer**
+	**Mécano - mechanic**
+	**Police - LSPD**
+	**Eboueur - Garbage**
+	**Président - President**
+	**Agent immobilier - Real estate agent**
+	**Taxi - Taxi**
+	**Unicorn - Unicorn**
+	**Concessionnaire - CarDealer**
+	**Vigneron - Vigneron**
 
 * Requirements :
 
