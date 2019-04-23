@@ -8,7 +8,7 @@
 	Banque - Banker
 	Avocat - Lawyer
 	Mécano - mechanic
-	Police - LSPD**
+	Police - LSPD
 	Eboueur - Garbage
 	Président - President
 	Agent immobilier - Real estate agent
