@@ -3,19 +3,19 @@
 
 ### JobList
 	
-	**Ambulance - Ambulance**
-	**Bahama - Bahama**
-	**Banque - Banker**
-	**Avocat - Lawyer**
-	**Mécano - mechanic**
-	**Police - LSPD**
-	**Eboueur - Garbage**
-	**Président - President**
-	**Agent immobilier - Real estate agent**
-	**Taxi - Taxi**
-	**Unicorn - Unicorn**
-	**Concessionnaire - CarDealer**
-	**Vigneron - Vigneron**
+	Ambulance - Ambulance
+	Bahama - Bahama
+	Banque - Banker
+	Avocat - Lawyer
+	Mécano - mechanic
+	Police - LSPD**
+	Eboueur - Garbage
+	Président - President
+	Agent immobilier - Real estate agent
+	Taxi - Taxi
+	Unicorn - Unicorn
+	Concessionnaire - CarDealer
+	Vigneron - Vigneron
 
 * Requirements :
 
@@ -37,44 +37,44 @@
 
 ```
 ### MYSQL ASYNC ###
-	start mysql-async
-	start async
+		start mysql-async
+		start async
 	
 ### ES_EXTENDED ###
-	start essentialmode
-	start esplugin_mysql
-    start es_admin2
-    start es_extended
+		start essentialmode
+		start esplugin_mysql
+	    start es_admin2
+	    start es_extended
 
 ### ESX_REQUIRED MODS ###
-	start instance
-    start cron
-    start skinchanger
-    start esx_skin
-    start esx_addonaccount
-    start esx_addoninventory
-    start esx_datastore    
-    start esx_society
-    start esx_service
-    start esx_billing
+		start instance
+	    start cron
+	    start skinchanger
+	    start esx_skin
+	    start esx_addonaccount
+	    start esx_addoninventory
+	    start esx_datastore    
+	    start esx_society
+	    start esx_service
+	    start esx_billing
 
 ### ESX_JOBS ###
- 	start esx_jobs
-    start esx_joblisting
-    start esx_taxijob
-    start esx_mecanojob
-    start esx_policejob
-    start esx_property
-    start esx_realestateagentjob
-    start esx_bankerjob
-    start esx_ambulancejob
-    start esx_vehicleshop
-    start esx_vigneronjob
-    start esx_president
-    start esx_poubelle
-    start esx_unicornjob
-    start bahamajob
-    start esx_lawyerjob
+	 	start esx_jobs
+	    start esx_joblisting
+	    start esx_taxijob
+	    start esx_mecanojob
+	    start esx_policejob
+	    start esx_property
+	    start esx_realestateagentjob
+	    start esx_bankerjob
+	    start esx_ambulancejob
+	    start esx_vehicleshop
+	    start esx_vigneronjob
+	    start esx_president
+	    start esx_poubelle
+	    start esx_unicornjob
+	    start bahamajob
+	    start esx_lawyerjob
 
 ```
 
