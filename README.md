@@ -19,23 +19,23 @@
 
 ### Requirements
 		
-	*Mysql-async(https://github.com/brouznouf/fivem-mysql-async)
-	*Async(https://github.com/ESX-Org/async)
-	*Essentialmode(https://github.com/kanersps/essentialmode/releases/tag/6.1.0)
-	*esplugin_mysql(https://github.com/kanersps/esplugin_mysql)
-	*es_admin2(https://github.com/kanersps/es_admin)
-	*es_extended(https://github.com/ESX-Org/es_extended)
-	*skinchanger(https://github.com/ESX-Org/skinchanger)
-	*esx_skin(https://github.com/ESX-Org/esx_skin)
-	*esx_addonaccout(https://github.com/ESX-Org/esx_addonaccount)
-	*esx_jobs(https://github.com/ESX-Org/esx_jobs)
-	*esx_joblisting(https://github.com/ESX-Org/esx_joblisting)
+	* [Mysql-async](https://github.com/brouznouf/fivem-mysql-async)
+	* [Async](https://github.com/ESX-Org/async)
+	* [Essentialmode](https://github.com/kanersps/essentialmode/releases/tag/6.1.0)
+	* [esplugin_mysql](https://github.com/kanersps/esplugin_mysql)
+	* [es_admin2](https://github.com/kanersps/es_admin)
+	* [es_extended](https://github.com/ESX-Org/es_extended)
+	* [skinchanger](https://github.com/ESX-Org/skinchanger)
+	* [esx_skin](https://github.com/ESX-Org/esx_skin)
+	* [esx_addonaccout](https://github.com/ESX-Org/esx_addonaccount)
+	* [esx_jobs](https://github.com/ESX-Org/esx_jobs)
+	* [esx_joblisting](https://github.com/ESX-Org/esx_joblisting)
 
 ## Installation
 - Import `RP-FiveM.sql` in your database
 - Add this in your server.cfg :
 
-```cfg
+```
 ### MYSQL ASYNC ###
 	start mysql-async
 	start async
