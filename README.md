@@ -17,8 +17,8 @@
 	*Concessionnaire * CarDealer
 	*Vigneron - Vigneron
 
-### Requirements
-		
+* Requirements :
+
 	* [Mysql-async](https://github.com/brouznouf/fivem-mysql-async)
 	* [Async](https://github.com/ESX-Org/async)
 	* [Essentialmode](https://github.com/kanersps/essentialmode/releases/tag/6.1.0)
@@ -77,6 +77,5 @@
     start esx_lawyerjob
 
 ```
-
 
 New Update Soon
