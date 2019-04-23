@@ -73,7 +73,7 @@
 	start esx_president
 	start esx_poubelle
 	start esx_unicornjob
-	start bahamajob
+	start esx_bahamajob
 	start esx_lawyerjob
 
 ```

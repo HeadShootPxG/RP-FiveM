@@ -391,15 +391,11 @@ CREATE TABLE `fine_types_ambulance` (
   `category` int(11) DEFAULT NULL
 );
 
-INSERT INTO `fine_types_ambulance` (`id`, `label`, `amount`, `category`) VALUES
+INSERT INTO `fine_types_ambulance` (`label`, `amount`, `category`) VALUES
 	('Soin pour membre de la police', 400, 0),
 	('Soin de base', 500, 0),
 	('Soin longue distance', 750, 0),
 	('Soin patient inconscient', 800, 0)
-;
-
-ALTER TABLE `fine_types_ambulance`
-  	ADD PRIMARY KEY (`id`),
 ;
 
 CREATE TABLE `cardealer_vehicles` (
